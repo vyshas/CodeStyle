@@ -515,9 +515,9 @@ So for example, if we want to check that the signUp() method with an invalid ema
 
    - Declared Functions:
 
-    • Public Functions (sort by alphabet)
+    - Public Functions (sort by alphabet)
 
-    • Private Functions (sort by alphabet)
+    - Private Functions (sort by alphabet)
 
 
 
