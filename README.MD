@@ -17,7 +17,7 @@ This style-guide is somewhat of a mash-up between the existing Kotlin language s
 - The [Code guidlines from Buffer](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md)
 
 
-##Source files
+## Source files
 
 All source files must be encoded as UTF-8.
 
@@ -511,7 +511,7 @@ So for example, if we want to check that the signUp() method with an invalid ema
  
    - Variable (Properties, sort by alphabet)
 
-   - Override Functions (Properties)
+   - Override Functions (Properties): Lifecycle methods first
 
    - Declared Functions:
 
